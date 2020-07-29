@@ -1,4 +1,4 @@
-# real_time_dashboard
+# Real Time Dashboard Project
 - Django 3.0.8
 - Import data from .csv into SQLite db
 - Displays data by time (bootstrap css and some js files) 
